@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://drive.google.com/file/d/19w6cSbqFzStof_smrp1hmd47p5OsFit4/view?usp=sharing' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Video Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [QuickTime Player](https://support.apple.com/downloads/quicktime).  
